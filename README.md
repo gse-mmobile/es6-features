@@ -5,6 +5,8 @@ ES6 is embedded with a lot of interesting features. Find below things I found in
 The spread operator allows is used to ensure that an **array** or **iterable obeject** should have its content split into sepearte arguments within a call.
 The spread operator is triggered with the `"..."` symbol
 
+_Run:_ _node spreadOperator.js_
+
 # Arrow Functions
 Two factors influenced the introduction of arrow functions: shorter functions and non-binding of `this`.
 
